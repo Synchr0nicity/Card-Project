@@ -48,4 +48,4 @@ A couple of little things that I thought I understood, such as media queries bes
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/synchronicity)
+- Frontend Mentor -@synchr0nicity (https://www.frontendmentor.io/profile/synchronicity)
